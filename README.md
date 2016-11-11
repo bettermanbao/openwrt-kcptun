@@ -6,7 +6,6 @@ More details please refer to https://github.com/xtaci/kcptun
 
 Sample config file for MT7620 router with 64M memory. Speed could boost up to 3-4Mbps while original at 0.5-1Mbps.
 
-{
     "localaddr": ":1234",
     "remoteaddr": "xxx.xxx.xxx.xxx:1234",
     "key": "yourkeys",
@@ -28,5 +27,3 @@ Sample config file for MT7620 router with 64M memory. Speed could boost up to 3-
     "nc": 1,
     "sockbuf": 4194304,
     "keepalive": 10
-}
-
