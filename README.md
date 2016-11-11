@@ -10,10 +10,8 @@ Sample config file for MT7620 router with 64M memory. Speed could boost up to 3-
 {
 
     "localaddr": ":1234",
-
     "remoteaddr": "xxx.xxx.xxx.xxx:1234",
     "key": "yourkeys",
-
     "crypt": "salsa20",
 
     "mode": "fast",
