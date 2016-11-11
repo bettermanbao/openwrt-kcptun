@@ -29,3 +29,4 @@ Sample config file for MT7620 router with 64M memory. Speed could boost up to 3-
     "sockbuf": 4194304,
     "keepalive": 10
 }
+
