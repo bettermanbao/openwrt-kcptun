@@ -12,7 +12,7 @@ Sample config file for MT7620 router with 64M memory. Speed could boost up to 3-
     "remoteaddr": "xxx.xxx.xxx.xxx:1234",
     "key": "yourkeys",
     "crypt": "salsa20",
-    "mode": "fast",
+    "mode": "fast2",
     "conn": 1,
     "autoexpire": 300,
     "mtu": 1350,
