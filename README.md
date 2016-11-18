@@ -4,6 +4,8 @@ Binary in Release for download.
 
 More details please refer to https://github.com/xtaci/kcptun
 
+luci-app-kcptun please refer to https://github.com/kuoruan/luci-app-kcptun
+
 Sample config file for MT7620 router with 64M memory. Speed could boost up to 3-4Mbps while original at 0.5-1Mbps.
 
     "localaddr": ":1234",
