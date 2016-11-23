@@ -2,7 +2,7 @@
 
 Binary in Release for download.
 
-**Compression function must be disabled by using --nocomp or "nocomp": true in config file. **
+***Compression function must be disabled by using --nocomp or "nocomp": true in config file.
 
 More details please refer to https://github.com/xtaci/kcptun
 
