@@ -8,7 +8,7 @@ More details please refer to https://github.com/xtaci/kcptun
 
 luci-app-kcptun please refer to https://github.com/kuoruan/luci-app-kcptun
 
-Sample client config file for MT7620 router with 64M memory.
+Sample client config file for AR9341/MT7620 router with 64M memory.
 ```
 {
     "localaddr": ":12948",
